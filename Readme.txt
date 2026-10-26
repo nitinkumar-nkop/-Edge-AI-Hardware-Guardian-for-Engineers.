@@ -1,0 +1,1 @@
+Edge-AI Guardian is an endpoint monitoring and protection system for engineers’ laptops and workstations. It aims to move beyond reporting resource usage toward detecting problems early, protecting ongoing work, and safely recovering from known failures.
